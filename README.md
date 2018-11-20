@@ -6,7 +6,7 @@ The steps in this document assume that you have access to an OpenShift deploymen
 
 ## What has been done for you
 
-This is a minimal Django 1.11 project. It was created with these steps:
+This is a minimal Django 2.1.3 project. It was created with these steps:
 
 1. Create a virtualenv
 2. Manually install Django and other dependencies
